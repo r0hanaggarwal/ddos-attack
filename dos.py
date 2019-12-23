@@ -19,9 +19,9 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
-print
+print "instagram : www.instagram.com/rohann_aggrawal
 print "Author   : ROH5N"
-print
+print "𝑫𝑶𝑵𝑻 𝑴𝑬𝑺𝑺 𝑾𝑰𝑻𝑯 𝑴𝑬 "
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
